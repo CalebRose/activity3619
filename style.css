@@ -1,0 +1,20 @@
+.loremBoi {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+}
+
+.two {
+    font-family: 'Crimson Text', serif;
+    font-size: 24px;
+
+}
+
+.three {
+    font-family: 'Old Standard TT', serif;
+    font-size: 24px;
+
+}
+
+button {
+    margin: 0;
+}
